@@ -24,7 +24,7 @@ A Chinese Font Derived from Source Han Sans. 一款基于思源黑体的中文�
 - [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
 ### 日系手写字体中文化
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
-- [悠哉字体 / Yozai](https://github.com/lxgw/yozai=font)
+- [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
 ## 联系作者
 
