@@ -9,6 +9,9 @@ A Chinese Font Derived from Source Han Sans. 一款基于思源黑体的中文�
 
 暂时只有简体中文（SC）版本，剔除 'locl' 特性以减小字体体积。
 
+## 预览
+![dHMGE8.png](https://s1.ax1x.com/2020/08/29/dHMGE8.png)
+
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
 - 免费使用，包括商用，无需付费、告知或标明原作者；
