@@ -16,7 +16,7 @@ A Chinese Font Derived from Source Han Sans. 一款基于思源黑体的中文�
 - 在此基础上进行修改或二次创作，但改作后的字体也应遵循 SIL OFL 1.1 条款开源发布。
 
 ## 鸣谢
-- [思源黑体](https://github.com/adobe-fonts/source-han-sans) *by Adobe*
+- [思源黑体 / Source Han Sans](https://github.com/adobe-fonts/source-han-sans) *by Adobe*
 - [Noto Sans CJK](https://github.com/googlefonts/noto-cjk) *by Google*
 - [Hind](https://github.com/itfoundry/hind) *by Indian Type Foundry*
 - [GenEi Univer Sans](https://okoneya.jp/font/download.html#dl-geus) *by Okoneya（御琥祢屋）*
