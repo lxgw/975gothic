@@ -14,10 +14,17 @@ A Chinese Font Derived from Source Han Sans. 一款基于思源黑体的中文�
 - 在此基础上进行修改或二次创作，但改作后的字体也应遵循 SIL OFL 1.1 条款开源发布。
 
 ## 鸣谢
-- [思源黑体](https://github.com/adobe-fonts/source-han-sans)
-- [Noto Sans CJK](https://github.com/googlefonts/noto-cjk)
-- [Hind](https://github.com/itfoundry/hind)
-- [GenEi Univer Sans](https://okoneya.jp/font/download.html#dl-geus)
+- [思源黑体](https://github.com/adobe-fonts/source-han-sans) *by Adobe*
+- [Noto Sans CJK](https://github.com/googlefonts/noto-cjk) *by Google*
+- [Hind](https://github.com/itfoundry/hind) *by Indian Type Foundry*
+- [GenEi Univer Sans](https://okoneya.jp/font/download.html#dl-geus) *by Okoneya（御琥祢屋）*
+
+## 相关项目
+### 975 系列
+- [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
+### 日系手写字体中文化
+- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
+- [悠哉字体 / Yozai](https://github.com/lxgw/yozai=font)
 
 ## 联系作者
 
