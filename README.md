@@ -5,6 +5,8 @@ A Chinese Font Derived from Source Han Sans. 一款基于思源黑体的中文�
 ## 简介
 在思源黑体 2.001 的基础上，缩小字面至 97.5%，适量增大字距，并做适量加粗，使其更适合手机屏幕显示。
 
+西文搭配经过调整处理的 [GenEi Univer Sans](https://okoneya.jp/font/download.html#dl-geus) 字体。
+
 暂时只有简体中文（SC）版本，剔除 'locl' 特性以减小字体体积。
 
 ## 授权信息
