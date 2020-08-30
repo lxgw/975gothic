@@ -12,6 +12,11 @@ A Chinese Font Derived from Source Han Sans. 一款基于思源黑体的中文�
 ## 预览
 ![dHMGE8.png](https://s1.ax1x.com/2020/08/29/dHMGE8.png)
 
+## 注意事项
+- 这不是一个专业的字体文件。
+- 已知问题：
+  - 在中文和西文合并的过程中，思源黑体原有的 OpenType 特性丢失，会导致纵向排版特性无法正常体现。
+
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
 - 免费使用，包括商用，无需付费、告知或标明原作者；
